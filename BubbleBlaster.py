@@ -84,7 +84,7 @@ def show_time(time_left):
 from time import sleep, time
 BUB_CHANCE = 10
 TIME_LIMIT = 30
-BONUS_SCORE = 1000
+BONUS_SCORE = 1100
 score = 0
 bonus = 0
 end = time() + TIME_LIMIT
